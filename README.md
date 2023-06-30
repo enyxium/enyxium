@@ -4,7 +4,7 @@
 ### enyxium
 ### semi fluent in lua, powershell
   
-&nbsp;<p align="center">![](![](https://komarev.com/ghpvc/?username=enyxium&style=flat-square)
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 )<br>
 
   <div align="center" >
