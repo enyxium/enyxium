@@ -5,6 +5,6 @@
 ### semi fluent in lua, powershell
   
 &nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
-)<br>
+<br>
 
   <div align="center" >
